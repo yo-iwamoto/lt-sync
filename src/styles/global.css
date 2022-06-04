@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind variants;
+@tailwind utilities;
+
+:root {
+  @apply font-mono;
+}
